@@ -1,0 +1,6 @@
+gcc apriori_paralelo.c -o apriori -fopenmp   ->   ./apriori
+
+
+mpicc.mpich teste.c -o texte    ->    mpirun.mpich -np 3 ./texte
+
+
